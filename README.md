@@ -61,7 +61,7 @@ I'm **Hatice Kocabas**, a computer engineering graduate and data science enthusi
 
 - 📫 Email: [haticekcbas@gmail.com](mailto:haticekcbas@gmail.com)  
 - 🌍 Location: Kayseri, Turkey  
-- 💼 LinkedIn: *coming soon* <!-- Add link if available -->
+- 💼 LinkedIn: *https://www.linkedin.com/in/haticekocabas/* <!-- Add link if available -->
 
 ---
 
