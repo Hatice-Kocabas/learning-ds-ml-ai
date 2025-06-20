@@ -89,7 +89,7 @@ a.flatten()  # converts to 1D
 
 ```python
 np.random.seed(42)           # for reproducibility
-np.random.rand(3, 2)         # random floats in [0,1)
+np.random.rand(3, 2)         # random floats in [0,1), 1 is not included
 np.random.randint(0, 10, 5)  # random integers
 ```
 
