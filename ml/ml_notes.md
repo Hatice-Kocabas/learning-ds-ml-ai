@@ -51,7 +51,7 @@ Predicts categorical classes.
 
 ## 🔹 Unsupervised Learning
 
--Model learns from the unlabeled datasets.
+- Model learns from the unlabeled datasets.
 
 ### 1. Clustering
 
