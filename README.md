@@ -14,14 +14,11 @@ It includes **notes**, **code examples**, **mini projects**, and **experiments**
 - `basics/` – Python fundamentals, NumPy, Pandas
 - `data-visualization/` – Seaborn, Matplotlib, Plotly examples
 - `ml/` – Supervised & unsupervised ML models
-  - `regression/`
-  - `classification/`
-  - `clustering/`
-  - `model-evaluation/`
 - `dl/` – Neural networks, CNNs, intro to DL
 - `nlp/` – Text processing, sentiment analysis
 - `llm/` – Large Language Models, prompt tuning
 - `mini-projects/` – Small end-to-end ML/DS projects
+- `time_series_forecasting/` – Time series forecasting models and examples
 
 ---
 
